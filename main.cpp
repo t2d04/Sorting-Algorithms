@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "records.h"
+#include "HW3_S20191721.h"
 #include "measure_cpu_time.h"
 
 //typedef int _Cmpfun(const void*, const void*);
